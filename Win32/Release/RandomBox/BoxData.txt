@@ -1,0 +1,98 @@
+{
+   "BoxData":[
+      {
+         "BoxName":"SPIN CUBE",
+         "BoxTypeID":436207963,
+         "BoxQuantity":1,
+         "SupplyTypeID":436207964,
+         "SupplyQuantity":1,
+         "SpecialRewardTypeID":436207969,
+         "SpecialRewardQuantity":1,
+         "RewardItems":[
+            {
+               "Name":"Mystic Ring",
+               "TypeID":1879113739,
+               "Quantity":1,
+               "Probability":1,
+               "RareType":3,
+               "CanDuplicated":false,
+               "Announce":true
+            },
+            {
+               "Name":"Midnight Ring",
+               "TypeID":1879113736,
+               "Quantity":1,
+               "Probability":1,
+               "RareType":3,
+               "CanDuplicated":false,
+               "Announce":true
+            },
+            {
+               "Name":"Pang Pocket 1500000",
+               "TypeID":436207632,
+               "Quantity":1500000,
+               "Probability":1,
+               "RareType":3,
+               "CanDuplicated":true,
+               "Announce":true
+            },
+            {
+               "Name":"Card Remover 100%",
+               "TypeID":436207810,
+               "Quantity":1,
+               "Probability":100,
+               "RareType":2,
+               "CanDuplicated":true,
+               "Announce":true
+            },
+            {
+               "Name":"Pang Pocket 3000",
+               "TypeID":436207632,
+               "Quantity":3000,
+               "Probability":500,
+               "RareType":0,
+               "CanDuplicated":true,
+               "Announce":false
+            },
+            {
+               "Name":"Exp Pocket 20",
+               "TypeID":436207965,
+               "Quantity":20,
+               "Probability":500,
+               "RareType":0,
+               "CanDuplicated":true,
+               "Announce":false
+            }
+         ]
+      },
+      {
+         "BoxName":"กล่องน้องถุง",
+         "BoxTypeID":436208136,
+         "BoxQuantity":1,
+         "SupplyTypeID":0,
+         "SupplyQuantity":0,
+         "SpecialRewardTypeID":0,
+         "SpecialRewardQuantity":0,
+         "RewardItems":[
+            {
+               "Name":"Foxy Mask (Nuri)",
+               "TypeID":134219908,
+               "Quantity":1,
+               "Probability":1,
+               "RareType":0,
+               "CanDuplicated":false,
+               "Announce":false
+            },
+            {
+               "Name":"Foxy Mask (Hana)",
+               "TypeID":134482030,
+               "Quantity":1,
+               "Probability":1,
+               "RareType":0,
+               "CanDuplicated":false,
+               "Announce":false
+            }
+         ]
+      }
+   ]
+}

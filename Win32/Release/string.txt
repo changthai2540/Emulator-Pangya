@@ -1,0 +1,4 @@
+LevelUP=ดีใจด้วย! คุณได้ของรางวัลจากการเพิ่มเลเวล
+MailSendItem=(%s %d ชิ้น)
+SpinCubeIem=คุณได้รับไอเท็มจาก %s !!
+BoxAnnounce=<PARAMS><BOX_TYPEID>%d</BOX_TYPEID><NICKNAME>%s</NICKNAME><TYPEID>%d</TYPEID><QTY>%d</QTY></PARAMS>
